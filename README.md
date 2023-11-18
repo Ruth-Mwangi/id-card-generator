@@ -35,7 +35,7 @@ This project is an ID card generator that creates random ID cards with personali
 Run the script to generate ID cards:
 
 ```bash
-python id_card_generator.py
+python image_generator.py
 ```
 This will create 100 ID cards with random information and save them to the specified output path.
 
