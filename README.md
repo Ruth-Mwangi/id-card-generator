@@ -1,4 +1,4 @@
-# Image-Generator
+# ID Card Generator
 
 ## Overview
 This project is an ID card generator that creates random ID cards with personalized information such as name, gender, date of birth, and more. It uses the PIL library for image manipulation and the unique_names_generator library for generating random names.
